@@ -99,6 +99,12 @@ Follow these instructions to set up and run this project on your local machine.
 - dotenv
 
 ## Acknowledgments
+## 👨‍💻 Author
+**Utkarsh Kumar**  
+B.Tech Student | Web Development | AI Projects  
+Hackathon Submission
+
 
 - [Google Gemini](https://ai.google.com/): For providing the underlying language model.
 - [Streamlit](https://streamlit.io/): For the user interface framework.
+
