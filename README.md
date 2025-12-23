@@ -97,6 +97,11 @@ Follow these instructions to set up and run this project on your local machine.
 - google.generativeai
 - dotenv
 
+- ## 📺 Watch My Demo
+
+[![Watch the video](https://img.youtube.com/vi/bVOC7Jv09rk/0.jpg)](https://youtu.be/bVOC7Jv09rk)
+
+
 ## Acknowledgments
 ## 👨‍💻 Author
 **Utkarsh Kumar**  
@@ -106,5 +111,6 @@ Hackathon Submission
 
 - [Google Gemini](https://ai.google.com/): For providing the underlying language model.
 - [Streamlit](https://streamlit.io/): For the user interface framework.
+
 
 
